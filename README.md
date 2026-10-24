@@ -13,3 +13,11 @@ Total Revenue,Total Orders, Total Quantity Sold, Average Order Value, Revenue by
 Tools Used:Microsoft Excel
 
 Objective:To turn sales data into meaningful insights that support better business decisions.
+
+This project demonstrates practical skills in Excel-based data analysis, KPI calculation, data summarisation, and visualisation. It showcases how raw sales data can be transformed into actionable business insights.
+
+Author
+
+Ogunseye Oluwaseunfuni Rofiat 
+
+Aspiring Data Analyst | Excel | Data Analysis | Data Visualisation
